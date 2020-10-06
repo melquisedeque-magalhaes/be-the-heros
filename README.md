@@ -39,11 +39,15 @@ Figma.
 
 ### Rodando A Aplicação
 
-Execute ``` npm install ``` ou ``` yarn  ``` nas pastas backend, frontend e mobile, para instalar as dependências.
+---
 
-    Rode ``` npm start ``` ou ``` yarn start ``` nas pastas backend e frontend para utilizar a versão web. Acesse via localhost:3000.
+Execute ``` npm install ``` ou  ``` yarn ```  nas pastas backend, frontend e mobile, para instalar as dependências.
 
-    Rode ``` npm start ``` ou ``` yarn start ``` nas pastas backend e mobile, acesse *** localhost:19002 ***, leia o QR Code no seu celular e utilize o aplicativo rocketseat Expo.
-<img src="./assets/expo.png" heigh="18" />
+Rode ``` npm start ``` ou ``` yarn start ``` nas pastas backend e frontend para utilizar a versão web. Acesse via localhost:3000.
+
+Rode ``` npm start ``` ou ``` yarn start ``` nas pastas backend e mobile, acesse  ***localhost:19002***, leia o QR Code no seu celular e utilize o aplicativo rocketseat Expo.
+
+<img src="./assets/expo.png" height="18" />
+
 para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
 
