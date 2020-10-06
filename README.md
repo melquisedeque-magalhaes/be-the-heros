@@ -26,4 +26,8 @@
     Produtividade e performance de forma enxuta. 
 </p>
 
+<p>
+    Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
+</p>
+
 ***
