@@ -9,8 +9,8 @@
 
 <h3>
     Criado com a stack 
-    <img src="./assets/react.png"/> React Js
-    <img src="./assets/react-native.png"/> React Native
-    <img src="./assets/node.png" /> Node Js
-    <img src="./assets/sqlite.png" /> Sqlite
+    <img src="./assets/react.png" height="18"/> React Js
+    <img src="./assets/react-native.png" height="18"/> React Native
+    <img src="./assets/node.png" height="18" /> Node Js
+    <img src="./assets/sqlite.png" height="18" /> Sqlite
 </h3>
