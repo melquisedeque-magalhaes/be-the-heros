@@ -30,4 +30,8 @@
     Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 </p>
 
-***
+[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no
+<img src="assets/figma.png" height="18" />
+Figma.
+
+---
