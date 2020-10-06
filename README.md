@@ -14,3 +14,11 @@
     <img src="./assets/node.png" height="18" /> Node Js
     <img src="./assets/sqlite.png" height="18" /> Sqlite
 </h3>
+
+<img src="./assets/heroes.png" aling="center" />
+
+<p> 
+    Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o javascript.
+    <img src="./assets/js.png" />
+    Produtividade e performance de forma enxuta. 
+</p>
