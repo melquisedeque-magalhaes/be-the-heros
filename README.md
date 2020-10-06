@@ -3,4 +3,6 @@
 </h1>
 
 
-## align="center" Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar ##
+<h2 aling="center"> 
+    Aplicação para conectar ONGs e outras   instituições a pessoas que tem disponibilidade para ajudar 
+</h2>
