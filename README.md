@@ -15,10 +15,15 @@
     <img src="./assets/sqlite.png" height="18" /> Sqlite
 </h3>
 
-<img src="./assets/heroes.png" aling="center" />
+<h2 aling="center">
+    <img src="./assets/heroes.png" />
+</h2>
+
 
 <p> 
     Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o javascript.
-    <img src="./assets/js.png" />
+    <img src="./assets/js.png" height="18" />
     Produtividade e performance de forma enxuta. 
 </p>
+
+***
